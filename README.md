@@ -9,10 +9,15 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Import the necessary libraries.
+
 2.Define linear regression function.
+
 3.Begin by reading the dataset using the read_csv function. 
+
 4.Apply the linear_regression function to the standardized input features X1_Scaled and target variable Y1_Scaled to obtain the optimal parameters theta.
+
 5.Prepare new data and make predictions using the trained model.
+
 6.Print the predicted value obtained from the regression analysis.
 
 ## Program:
